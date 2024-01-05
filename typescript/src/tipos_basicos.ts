@@ -29,5 +29,5 @@ dadosAPI = 'Kathleen';
 // Quando não deplaramos a tipagem do dado
 let curso ='fullstack';
 // O Ts entendeu que a variável é do tipo string e não aceita a mudaça de valor para number
-curso = 10;
+// curso = 10;
 
